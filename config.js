@@ -114,7 +114,7 @@ const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n' 
 + 'FN:Mi creador\n' 
 + 'ORG:ঔৣ͜͡★🔥σгεʞıรεŋ℘ศı🔥☆ ፝͜★;\n' 
-+ 'TEL;type=CELL;type=VOICE;waid=50766326731:+507 6632-5731\n' 
++ 'TEL;type=CELL;type=VOICE;waid=50766325731:+507 6632-5731\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
 //ele corresponde
