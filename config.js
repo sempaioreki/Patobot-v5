@@ -1,7 +1,7 @@
-const ownerNumber = ["17694448714@s.whatsapp.net"] 
+const ownerNumber = ["50766325731@s.whatsapp.net"] 
 // Tú número
 
-const OriginalOwner = '17694448714' 
+const OriginalOwner = '50766325731' 
 // Tú número x2
 
 const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
@@ -113,8 +113,8 @@ let mess = {
 const vcard = 'BEGIN:VCARD\n' 
 + 'VERSION:3.0\n' 
 + 'FN:Mi creador\n' 
-+ 'ORG:℘ąɬơ;\n' 
-+ 'TEL;type=CELL;type=VOICE;waid=17694448714:+1 (769) 444-8714\n' 
++ 'ORG:ঔৣ͜͡★🔥σгεʞıรεŋ℘ศıᵐᵅˢᵗᵋʳ🔥☆ ፝͜★\n' 
++ 'TEL;type=CELL;type=VOICE;waid=50766325731:+507 6632-5731\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
 //ele corresponde
