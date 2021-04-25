@@ -1,7 +1,7 @@
-const ownerNumber = ["17694448714@s.whatsapp.net"] 
+const ownerNumber = ["50766325731@s.whatsapp.net"] 
 // Tú número
 
-const OriginalOwner = '17694448714' 
+const OriginalOwner = '50766325731' 
 // Tú número x2
 
 const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
