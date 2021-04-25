@@ -242,5 +242,4 @@ return `┏━ ঔৣ͜͡★🔥σгεʞıรεŋ℘ศı🔥☆ ፝͜★۷5 ━
 }
 
 exports.help = help
-Para consulta con el dueño coloque el comando !criador
-ঔৣ͜͡★🔥σгεʞıรεŋ℘ศı🔥☆ ፝͜★
+
