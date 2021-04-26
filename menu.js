@@ -5,12 +5,9 @@ return `┏━ ঔৣ͜͡★🔥σгεʞıรεŋ℘ศı🔥☆ ፝͜★۷5 ━
 ║ _*👥 Usuario: ${user} 👥*_
 ║ _*🧩 Su link 🧩: ${wame} *_                                        
 ║                                                           
-┣══════ Redes ══════┫
-║
-║
-║ _Grupo wsp:_
-║ _*🪀 https://chat.whatsapp.com/LRNjjnJeXvM6dVH53FKhNy 💜*
-    
+┣══════ Menu ══════┫
+
+ 
 🔱➤ *${p}listblockcmd*
 🔱➤ *${p}listpalavra*
 🔱➤ *${p}info*
